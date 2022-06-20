@@ -24,6 +24,7 @@ My stack :
 How to reach me :
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Yahoo-blueviolet?style=for-the-badge&logo=yahoo&logoColor=white" alt="LinkedIn Badge"/></a>
 
 <!---
 42proger/42proger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
