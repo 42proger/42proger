@@ -1,6 +1,6 @@
 ###  👋 Hi, I’m Full Stack Developer
 
-#### :hammer_and_wrench: My stack :
+My stack :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
@@ -20,7 +20,8 @@
 
  ---
 
-#### 📫 How to reach me 
+How to reach me 
+
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 <!---
