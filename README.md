@@ -1,4 +1,5 @@
 ###  👋 Hi, I’m Full Stack Developer
+with over 8 years of experience web developmand and managing projects across a wide range of sectors. 
 
 My stack :
 
