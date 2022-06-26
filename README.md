@@ -17,12 +17,6 @@ My stack :
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
 </div>
 
- ---
-
-How to reach me :
-
-<a href="#"><img src="https://img.shields.io/badge/Yahoo-blueviolet?style=for-the-badge&logo=yahoo&logoColor=white" alt="LinkedIn Badge"/></a>
-
 <!---
 42proger/42proger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
