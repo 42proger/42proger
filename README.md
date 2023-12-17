@@ -20,3 +20,8 @@ with over 9 years of experience web developmand and managing projects across a w
 
 <a href="https://www.leetcode.com/42proger" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/proger42" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" title="HackerRank" height="30" width="40" /></a>
+
+### My verified badges:
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
